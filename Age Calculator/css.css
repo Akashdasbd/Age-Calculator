@@ -1,0 +1,23 @@
+.age-cal {
+    width: 700px;
+    margin: 100px auto;
+    text-align: center;
+    border: 2px solid red;
+    padding: 50px;
+}
+
+.fomr-age {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.fomr-age label {
+    color: dodgerblue;
+}
+
+.fomr-age input#date {
+    width: 167px;
+    color: red;
+    border: 2px solid;
+    font-size: 22px;
+}
